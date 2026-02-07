@@ -2,3 +2,41 @@ baseURL = "https://izzyhoward1.github.io/virtu/"
 languageCode = "en-ie"
 title = "Virtu"
 theme = "PaperMod"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "client-solutions"
+    name = "Client Solutions"
+    url = "/#client-solutions"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/#about"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "market-making"
+    name = "Market Making"
+    url = "/#market-making"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "thinking"
+    name = "Thinking"
+    url = "/#thinking"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/#contact"
+    weight = 90
+
+  [[menu.main]]
+    identifier = "careers"
+    name = "Careers"
+    url = "/#careers"
+    weight = 100
