@@ -66,5 +66,5 @@ A pragmatic approach to tooling and integration so your data is usable, not just
 If you’d like to discuss your workflow or a small pilot, get in touch.
 
 **Email:** hello@virtu.ie  
-**Location:** Ireland  
+**Location:** Hong Kong, Singapore, Sydney, Toronto, Dublin, London, Paris, Austin, Boston, Chicago, New York, Palm Beach, Short Hills, Westchester 
 **Availability:** Mon–Fri
